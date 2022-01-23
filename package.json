@@ -1,0 +1,23 @@
+{
+  "name": "stopwatch",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hotkeys": "^2.0.0",
+    "react-hotkeys-hook": "^3.4.4",
+    "react-keyboard-input-hook": "^1.0.3",
+    "use-key-hook": "^1.5.0",
+    "use-keyboard-shortcut": "^1.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "prettier": "2.5.1",
+    "vite": "^2.7.2"
+  }
+}

@@ -1,0 +1,40 @@
+.App {
+    font-family: "DM Mono", monospace;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 15rem;
+    letter-spacing: -10px;
+    display: flex;
+    align-items: center;
+}
+
+h1 span {
+    color: #ce4409;
+}
+h1 span:nth-child(2) {
+    position: relative;
+    top: -14px;
+    color: #dcaa60;
+}
+
+h1 small {
+    font-size: 8rem;
+    letter-spacing: -0.5rem;
+    margin-left: 50px;
+    opacity: 0.5;
+    color: #dcaa60;
+}
+
+p {
+    color: #fff;
+    font-size: 13px;
+    opacity: 0.5;
+}
