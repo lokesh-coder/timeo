@@ -50,7 +50,7 @@ function App() {
                     <span>{seconds}</span>
                     <small>{milliseconds}</small>
                 </h1>
-                <p>Press spacebar once - stop . twice to reset</p>
+                <p>Press spacebar once to stop. And twice to reset.</p>
             </main>
         </div>
     );
